@@ -1,0 +1,20 @@
+# Required packages
+requests>=2.31.0
+typing-extensions>=4.7.1
+unittest2>=1.1.0
+
+# HTTP请求库
+requests>=2.31.0
+
+# 类型提示支持
+typing-extensions>=4.7.1
+
+# 测试相关
+pytest>=7.4.0
+pytest-asyncio>=0.21.1
+
+# 进度条显示（可选）
+tqdm>=4.65.0
+
+# 视频处理
+python-ffmpeg>=1.0.16
